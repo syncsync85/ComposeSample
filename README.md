@@ -12,3 +12,7 @@ A Sample app which demonstrate e the basic Compose UI elements with a list view 
 
 <img src="https://github.com/syncsync85/ComposeSample/blob/master/List-Screen.png" width="160" height="320" > <img src="https://github.com/syncsync85/ComposeSample/blob/master/Contact-Detail.png" width="160" height="320" >
 
+
+
+https://user-images.githubusercontent.com/30284911/158547483-f88b6a38-b960-447d-8b94-5d592c6af6f4.mov
+
